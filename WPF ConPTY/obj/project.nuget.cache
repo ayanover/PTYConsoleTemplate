@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Qq8EYR5ORfQ=",
+  "dgSpecHash": "EMoppboP2GA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JakubGrych(272583)\\RiderProjects\\WPF ConPTY\\WPF ConPTY\\WPF ConPTY.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rexiv\\.nuget\\packages\\rebex.common\\7.0.9209\\rebex.common.7.0.9209.nupkg.sha512",
+    "C:\\Users\\rexiv\\.nuget\\packages\\rebex.terminal\\7.0.9209\\rebex.terminal.7.0.9209.nupkg.sha512",
+    "C:\\Users\\rexiv\\.nuget\\packages\\rebex.terminal.control\\7.0.9209\\rebex.terminal.control.7.0.9209.nupkg.sha512"
+  ],
   "logs": []
 }

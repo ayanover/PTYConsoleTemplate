@@ -13,4 +13,8 @@
       <ProjectReference Include="..\consolePTY\consolePTY.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Rebex.Terminal.Control" Version="7.0.9209" />
+    </ItemGroup>
+
 </Project>

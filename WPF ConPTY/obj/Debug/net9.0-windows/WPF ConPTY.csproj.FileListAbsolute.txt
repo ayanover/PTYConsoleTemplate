@@ -27,3 +27,37 @@ C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0
 C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.exe
 C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.dll
 C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.pdb
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.deps.json
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.runtimeconfig.json
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.exe
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\WPF ConPTY.exe
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\WPF ConPTY.dll.config
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\WPF ConPTY.deps.json
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\WPF ConPTY.runtimeconfig.json
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\WPF ConPTY.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\WPF ConPTY.pdb
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\consolePTY.pdb
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.csproj.AssemblyReference.cache
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY_MarkupCompile.cache
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.g.resources
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF_ConPTY.Properties.Resources.resources
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.csproj.GenerateResource.cache
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.AssemblyInfoInputs.cache
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.AssemblyInfo.cs
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.csproj.CoreCompileInputs.cache
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.sourcelink.json
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.csproj.Up2Date
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\refint\WPF ConPTY.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.pdb
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\WPF ConPTY.genruntimeconfig.cache
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\ref\WPF ConPTY.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\Rebex.Common.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\Rebex.Terminal.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net9.0-windows\Rebex.Terminal.Control.dll
+C:\Users\rexiv\RiderProjects\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net9.0-windows\App.baml

@@ -2,6 +2,55 @@
   "version": 3,
   "targets": {
     "net9.0-windows7.0": {
+      "Rebex.Common/7.0.9209": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Rebex.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Rebex.Common.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Rebex.Terminal/7.0.9209": {
+        "type": "package",
+        "dependencies": {
+          "Rebex.Common": "[7.0.9209]"
+        },
+        "compile": {
+          "lib/net9.0/Rebex.Terminal.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Rebex.Terminal.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Rebex.Terminal.Control/7.0.9209": {
+        "type": "package",
+        "dependencies": {
+          "Rebex.Common": "[7.0.9209]",
+          "Rebex.Terminal": "[7.0.9209]"
+        },
+        "compile": {
+          "lib/net9.0-windows7.0/Rebex.Terminal.Control.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-windows7.0/Rebex.Terminal.Control.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
       "consolePTY/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -15,6 +64,108 @@
     }
   },
   "libraries": {
+    "Rebex.Common/7.0.9209": {
+      "sha512": "bh+Wv6A5+uPtCVAymS5ZCuhxt0D4AU8d2bKnlfINi4M7xfbMqzQaYyqWWDwPHwsBRHgdD7YyFTemXvG/RyZEog==",
+      "type": "package",
+      "path": "rebex.common/7.0.9209",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "images/Rebex.Common.png",
+        "lib/net35/Rebex.Common.dll",
+        "lib/net35/Rebex.Common.xml",
+        "lib/net40/Rebex.Common.dll",
+        "lib/net40/Rebex.Common.xml",
+        "lib/net46/Rebex.Common.dll",
+        "lib/net46/Rebex.Common.xml",
+        "lib/net5.0/Rebex.Common.dll",
+        "lib/net5.0/Rebex.Common.xml",
+        "lib/net6.0/Rebex.Common.dll",
+        "lib/net6.0/Rebex.Common.xml",
+        "lib/net7.0/Rebex.Common.dll",
+        "lib/net7.0/Rebex.Common.xml",
+        "lib/net8.0/Rebex.Common.dll",
+        "lib/net8.0/Rebex.Common.xml",
+        "lib/net9.0/Rebex.Common.dll",
+        "lib/net9.0/Rebex.Common.xml",
+        "lib/netcoreapp3.1/Rebex.Common.dll",
+        "lib/netcoreapp3.1/Rebex.Common.xml",
+        "lib/netstandard2.0/Rebex.Common.dll",
+        "lib/netstandard2.0/Rebex.Common.xml",
+        "lib/netstandard2.1/Rebex.Common.dll",
+        "lib/netstandard2.1/Rebex.Common.xml",
+        "license.txt",
+        "rebex.common.7.0.9209.nupkg.sha512",
+        "rebex.common.nuspec"
+      ]
+    },
+    "Rebex.Terminal/7.0.9209": {
+      "sha512": "P6pxwJ6Slxe8HWguF23UC8wkNf7/ij9cX99MDsJcxIna5oDSxfZw2IcmdhPoIQt1Ul0hPQlBpsuc5hWTEHRbNQ==",
+      "type": "package",
+      "path": "rebex.terminal/7.0.9209",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "images/Rebex.Terminal.png",
+        "lib/net35/Rebex.Terminal.dll",
+        "lib/net35/Rebex.Terminal.xml",
+        "lib/net40/Rebex.Terminal.dll",
+        "lib/net40/Rebex.Terminal.xml",
+        "lib/net46/Rebex.Terminal.dll",
+        "lib/net46/Rebex.Terminal.xml",
+        "lib/net5.0/Rebex.Terminal.dll",
+        "lib/net5.0/Rebex.Terminal.xml",
+        "lib/net6.0/Rebex.Terminal.dll",
+        "lib/net6.0/Rebex.Terminal.xml",
+        "lib/net7.0/Rebex.Terminal.dll",
+        "lib/net7.0/Rebex.Terminal.xml",
+        "lib/net8.0/Rebex.Terminal.dll",
+        "lib/net8.0/Rebex.Terminal.xml",
+        "lib/net9.0/Rebex.Terminal.dll",
+        "lib/net9.0/Rebex.Terminal.xml",
+        "lib/netcoreapp3.1/Rebex.Terminal.dll",
+        "lib/netcoreapp3.1/Rebex.Terminal.xml",
+        "lib/netstandard2.0/Rebex.Terminal.dll",
+        "lib/netstandard2.0/Rebex.Terminal.xml",
+        "lib/netstandard2.1/Rebex.Terminal.dll",
+        "lib/netstandard2.1/Rebex.Terminal.xml",
+        "license.txt",
+        "rebex.terminal.7.0.9209.nupkg.sha512",
+        "rebex.terminal.nuspec"
+      ]
+    },
+    "Rebex.Terminal.Control/7.0.9209": {
+      "sha512": "5YEx7c8MteTJku4CNcPmzPICnwJZrqcTq4hBnr6xuiGWzd5zFnR/kVFmNs6KKui6rFoK3tKfp3pleBoBD1pfzg==",
+      "type": "package",
+      "path": "rebex.terminal.control/7.0.9209",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "images/Rebex.Terminal.Control.png",
+        "lib/net35/Rebex.Terminal.Control.dll",
+        "lib/net35/Rebex.Terminal.Control.xml",
+        "lib/net40/Rebex.Terminal.Control.dll",
+        "lib/net40/Rebex.Terminal.Control.xml",
+        "lib/net46/Rebex.Terminal.Control.dll",
+        "lib/net46/Rebex.Terminal.Control.xml",
+        "lib/net5.0-windows7.0/Rebex.Terminal.Control.dll",
+        "lib/net5.0-windows7.0/Rebex.Terminal.Control.xml",
+        "lib/net6.0-windows7.0/Rebex.Terminal.Control.dll",
+        "lib/net6.0-windows7.0/Rebex.Terminal.Control.xml",
+        "lib/net7.0-windows7.0/Rebex.Terminal.Control.dll",
+        "lib/net7.0-windows7.0/Rebex.Terminal.Control.xml",
+        "lib/net8.0-windows7.0/Rebex.Terminal.Control.dll",
+        "lib/net8.0-windows7.0/Rebex.Terminal.Control.xml",
+        "lib/net9.0-windows7.0/Rebex.Terminal.Control.dll",
+        "lib/net9.0-windows7.0/Rebex.Terminal.Control.xml",
+        "license.txt",
+        "rebex.terminal.control.7.0.9209.nupkg.sha512",
+        "rebex.terminal.control.nuspec"
+      ]
+    },
     "consolePTY/1.0.0": {
       "type": "project",
       "path": "../consolePTY/consolePTY.csproj",
@@ -23,23 +174,29 @@
   },
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
+      "Rebex.Terminal.Control >= 7.0.9209",
       "consolePTY >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JakubGrych(272583)\\.nuget\\packages\\": {}
+    "C:\\Users\\rexiv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JakubGrych(272583)\\RiderProjects\\WPF ConPTY\\WPF ConPTY\\WPF ConPTY.csproj",
+      "projectUniqueName": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
       "projectName": "WPF ConPTY",
-      "projectPath": "C:\\Users\\JakubGrych(272583)\\RiderProjects\\WPF ConPTY\\WPF ConPTY\\WPF ConPTY.csproj",
-      "packagesPath": "C:\\Users\\JakubGrych(272583)\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JakubGrych(272583)\\RiderProjects\\WPF ConPTY\\WPF ConPTY\\obj\\",
+      "projectPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
+      "packagesPath": "C:\\Users\\rexiv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\JakubGrych(272583)\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rexiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +210,8 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\JakubGrych(272583)\\RiderProjects\\WPF ConPTY\\consolePTY\\consolePTY.csproj": {
-              "projectPath": "C:\\Users\\JakubGrych(272583)\\RiderProjects\\WPF ConPTY\\consolePTY\\consolePTY.csproj"
+            "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj": {
+              "projectPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj"
             }
           }
         }
@@ -74,6 +231,12 @@
     "frameworks": {
       "net9.0-windows7.0": {
         "targetAlias": "net9.0-windows",
+        "dependencies": {
+          "Rebex.Terminal.Control": {
+            "target": "Package",
+            "version": "[7.0.9209, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -93,7 +256,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\JakubGrych(272583)\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\rexiv\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
