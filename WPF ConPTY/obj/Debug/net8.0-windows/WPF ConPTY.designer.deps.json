@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rebex.Common/7.0.9209": {
+        "runtime": {
+          "lib/net8.0/Rebex.Common.dll": {
+            "assemblyVersion": "7.0.9209.0",
+            "fileVersion": "7.0.9209.0"
+          }
+        }
+      },
+      "Rebex.Terminal/7.0.9209": {
+        "dependencies": {
+          "Rebex.Common": "7.0.9209"
+        },
+        "runtime": {
+          "lib/net8.0/Rebex.Terminal.dll": {
+            "assemblyVersion": "7.0.9209.0",
+            "fileVersion": "7.0.9209.0"
+          }
+        }
+      },
+      "Rebex.Terminal.Control/7.0.9209": {
+        "dependencies": {
+          "Rebex.Common": "7.0.9209",
+          "Rebex.Terminal": "7.0.9209"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Rebex.Terminal.Control.dll": {
+            "assemblyVersion": "7.0.9209.0",
+            "fileVersion": "7.0.9209.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rebex.Common/7.0.9209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bh+Wv6A5+uPtCVAymS5ZCuhxt0D4AU8d2bKnlfINi4M7xfbMqzQaYyqWWDwPHwsBRHgdD7YyFTemXvG/RyZEog==",
+      "path": "rebex.common/7.0.9209",
+      "hashPath": "rebex.common.7.0.9209.nupkg.sha512"
+    },
+    "Rebex.Terminal/7.0.9209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P6pxwJ6Slxe8HWguF23UC8wkNf7/ij9cX99MDsJcxIna5oDSxfZw2IcmdhPoIQt1Ul0hPQlBpsuc5hWTEHRbNQ==",
+      "path": "rebex.terminal/7.0.9209",
+      "hashPath": "rebex.terminal.7.0.9209.nupkg.sha512"
+    },
+    "Rebex.Terminal.Control/7.0.9209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5YEx7c8MteTJku4CNcPmzPICnwJZrqcTq4hBnr6xuiGWzd5zFnR/kVFmNs6KKui6rFoK3tKfp3pleBoBD1pfzg==",
+      "path": "rebex.terminal.control/7.0.9209",
+      "hashPath": "rebex.terminal.control.7.0.9209.nupkg.sha512"
+    }
+  }
+}

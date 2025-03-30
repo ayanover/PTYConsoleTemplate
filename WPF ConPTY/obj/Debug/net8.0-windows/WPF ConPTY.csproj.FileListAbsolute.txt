@@ -1,0 +1,34 @@
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\consolePTY.deps.json
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\consolePTY.runtimeconfig.json
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\consolePTY.exe
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\WPF ConPTY.exe
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\WPF ConPTY.dll.config
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\WPF ConPTY.deps.json
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\WPF ConPTY.runtimeconfig.json
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\WPF ConPTY.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\WPF ConPTY.pdb
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\Rebex.Common.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\Rebex.Terminal.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\Rebex.Terminal.Control.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\consolePTY.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\bin\Debug\net8.0-windows\consolePTY.pdb
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.csproj.AssemblyReference.cache
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\App.baml
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY_MarkupCompile.cache
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.g.resources
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF_ConPTY.Properties.Resources.resources
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.csproj.GenerateResource.cache
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.AssemblyInfoInputs.cache
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.AssemblyInfo.cs
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.csproj.CoreCompileInputs.cache
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.sourcelink.json
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.csproj.Up2Date
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\refint\WPF ConPTY.dll
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.pdb
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\WPF ConPTY.genruntimeconfig.cache
+C:\Users\JakubGrych(272583)\Source\Repos\PTYConsoleTemplate\WPF ConPTY\obj\Debug\net8.0-windows\ref\WPF ConPTY.dll

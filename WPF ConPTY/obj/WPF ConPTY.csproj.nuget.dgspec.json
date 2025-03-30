@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj": {}
+    "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj": {
+    "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj",
+        "projectUniqueName": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj",
         "projectName": "consolePTY",
-        "projectPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj",
-        "packagesPath": "C:\\Users\\rexiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\obj\\",
+        "projectPath": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj",
+        "packagesPath": "C:\\Users\\JakubGrych(272583)\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\consolePTY\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rexiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JakubGrych(272583)\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,12 +39,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -65,40 +60,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\rexiv\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj": {
+    "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
+        "projectUniqueName": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
         "projectName": "WPF ConPTY",
-        "projectPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
-        "packagesPath": "C:\\Users\\rexiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\WPF ConPTY\\obj\\",
+        "projectPath": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\WPF ConPTY\\WPF ConPTY.csproj",
+        "packagesPath": "C:\\Users\\JakubGrych(272583)\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\WPF ConPTY\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rexiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JakubGrych(272583)\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0-windows"
+          "net8.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0-windows7.0": {
-            "targetAlias": "net9.0-windows",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj": {
-                "projectPath": "C:\\Users\\rexiv\\RiderProjects\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj"
+              "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj": {
+                "projectPath": "C:\\Users\\JakubGrych(272583)\\Source\\Repos\\PTYConsoleTemplate\\consolePTY\\consolePTY.csproj"
               }
             }
           }
@@ -112,12 +103,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0-windows7.0": {
-          "targetAlias": "net9.0-windows",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "dependencies": {
             "Rebex.Terminal.Control": {
               "target": "Package",
@@ -143,7 +133,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\rexiv\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
