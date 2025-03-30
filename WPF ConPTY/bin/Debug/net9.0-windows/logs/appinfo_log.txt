@@ -1,0 +1,6 @@
+
+
+[2025-03-29 13:30:09] Client version: 1742420332
+[2025-03-29 13:30:09] ThreadedReadFromDisk: loading appinfo cache from: C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows/appcache/appinfo.vdf
+[2025-03-29 13:30:09] ThreadedReadFromDisk: failed to open file: C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows/appcache/appinfo.vdf
+[2025-03-29 13:30:09] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize

@@ -1,0 +1,7 @@
+
+
+[2025-03-29 13:30:09] Client version: 1742420332
+[2025-03-29 13:30:09] Failed to read store 'install' from 'C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\config\config.vdf.tmp'
+[2025-03-29 13:30:09] Failed to read store 'install' from 'C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\config\config.vdf.tmp'
+[2025-03-29 13:30:10] Failed to read store 'install' from 'C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\config\config.vdf.tmp'
+[2025-03-29 13:30:10] Flushed store 'install' to 'C:\Users\JakubGrych(272583)\RiderProjects\WPF ConPTY\WPF ConPTY\bin\Debug\net9.0-windows\config\config.vdf'
